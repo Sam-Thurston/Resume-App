@@ -16,7 +16,6 @@ import scipy.stats as sci
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-from scipy.optimize import curve_fit
 
 if st.button("Rerun"):
     st.rerun()
