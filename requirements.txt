@@ -1,6 +1,6 @@
 # Pin to an exact version
 scipy==1.16.2
-#matplotlib==3.10.0
+matplotlib==3.10.0
 
 # Set a minimum version
 requests>=1.0.0
